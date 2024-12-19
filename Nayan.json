@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "rafi-bot",
+  "BOTNAME": "bashir-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "61563782144052",
+    "61556004111861",
     "100000959749712"
   ],
   "ADMINBOT": [
     "61563782144052",
-    ""
+    "61556004111861"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
